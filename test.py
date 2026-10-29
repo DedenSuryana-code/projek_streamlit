@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Contoh Program Streamlit")
+st.title("Contoh Program Streamlit Dari Deden Suryana")
 with st.form(key="my_form"):
     nama = st.text_input("Nama Lengkap")
     jenis_kelamin = st.radio("Jenis Kelamin", ("Laki-laki", "Perempuan"))
